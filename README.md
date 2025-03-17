@@ -81,17 +81,16 @@ We’ve implemented the following operations using **low-level bitwise logic** t
 
 ## 🏁 **How to Run**
 1. Clone the repository:  
-```bash
+
 git clone https://github.com/rpa1k/MathExpressionInterpreter.git
 
 2. Build and run:
-```bash
+
 dotnet run
 	
 3. Enter a math expression like:
-```bash
-3 + 5 * (2 - 1)
 
+3 + 5 * (2 - 1)
 
 👨‍💻 How It Works
 1. Lexer splits input into tokens.
@@ -114,16 +113,9 @@ Backend Engineer | Low-Level Enthusiast | Open Source Contributor
 
 🚀 Happy Hacking! 😎
 
-
 ---
 
-### ✅ **Why This README Works:**
-- Clean structure  
-- Highlights native-level achievements  
-- Explains current state vs. future scope  
-- Professional and polished  
 
-This README will **impress recruiters** and show that you understand low-level programming — perfect for GitHub! 😎
 
 
 
